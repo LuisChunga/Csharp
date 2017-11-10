@@ -1,0 +1,12 @@
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luchito\Documents\Visual Studio 2015\Projects\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luchito\Desktop\C#Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
